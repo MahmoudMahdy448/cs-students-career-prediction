@@ -3,7 +3,7 @@
 This project analyzes computer science student data through a comprehensive data engineering pipeline.
 
 
-![Architecture](@architecture.png)
+![Architecture](architecture.png)
 
 
 
