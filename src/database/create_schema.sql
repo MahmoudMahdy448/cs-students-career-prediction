@@ -1,3 +1,11 @@
+-- Create a new database
+CREATE DATABASE StudentDB;
+GO
+
+-- Use the newly created database
+USE StudentDB;
+GO
+
 -- Create the cs_students table
 CREATE TABLE cs_students (
     student_id INT PRIMARY KEY,
