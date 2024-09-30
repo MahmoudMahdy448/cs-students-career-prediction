@@ -1,0 +1,9 @@
+database:
+  server: your_server_name
+  name: your_database_name
+  username: your_username
+  password: your_password
+
+paths:
+  raw_data: data/raw/cs_students.csv
+  processed_data: data/processed/cs_students_processed.csv
