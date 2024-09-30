@@ -15,7 +15,7 @@ This project analyzes computer science student data through a comprehensive data
 
 1. Clone the repository:
    ````
-   git clone <repository-url>
+   git clone https://github.com/MahmoudMahdy448/cs-students-career-prediction/tree/main
    cd <project-directory>
    ```
 
