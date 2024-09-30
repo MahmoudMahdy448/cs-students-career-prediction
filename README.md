@@ -2,6 +2,11 @@
 
 This project analyzes computer science student data through a comprehensive data engineering pipeline.
 
+
+![Architecture](@architecture.png)
+
+
+
 ## Week 1: Data Management and SQL Database Setup
 
 ### Prerequisites
